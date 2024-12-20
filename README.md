@@ -1,16 +1,14 @@
-## Hi there 👋
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/img/lightDino.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/img/darkDino.gif" />
+  </picture>
+</a>
 
-<!--
-**ansgrb/ansgrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## hey hey
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 yo, i'm anas ghareib (but you can call me a.g.)
+- 👀 building apps, messing with blockchain, and learning go – the usual
+- 🔥 let’s collaborate if you’ve got something cool or need a little chaos in your project
+- 📫 hmu at: ansgrb@gmail.com
+- ⚡ fun fact: i live at the intersection of art and tech. oh, and pointers? don’t trust 'em.
