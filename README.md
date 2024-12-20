@@ -2,6 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/img/lightDino.gif" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/img/darkDino.gif" />
+    <img alt="its a chrome dino running on a.g.'s github profile" src="./assets/img/lightDino.gif" />
   </picture>
 </a>
 
