@@ -11,5 +11,5 @@
 - 👋 I'm Anas Ghareib, but you can call me A.G.
 - 👀 building apps, messing with blockchain, and learning go – the usual
 - 🔥 let’s collaborate if you’ve got something cool or need a little chaos in your project
-- 📫 hmu at: ansgrb@gmail.com - ansghareib@gmail.com
+- 📫 hmu at: ansgrb@gmail.com - anasghareib@gmail.com
 - ⚡ fun fact: i live at the intersection of art and tech. oh, and pointers? don’t trust 'em.
