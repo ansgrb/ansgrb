@@ -8,8 +8,8 @@
 
 ## hey hey
 
-- 👋 I'm Anas Ghareib, but you can call me a.g.
+- 👋 I'm Anas Ghareib, but you can call me A.G.
 - 👀 building apps, messing with blockchain, and learning go – the usual
 - 🔥 let’s collaborate if you’ve got something cool or need a little chaos in your project
-- 📫 hmu at: ansgrb@gmail.com
+- 📫 hmu at: ansgrb@gmail.com - ansghareib@gmail.com
 - ⚡ fun fact: i live at the intersection of art and tech. oh, and pointers? don’t trust 'em.
