@@ -54,7 +54,7 @@ dependencies {
     // ^^ Spent more cycles here than I'd admit
 }
 ```
-<details> <summary><h3>click for ag's extended specs </h3></summary>
+<details> <summary><h2>🪤 click for ag's extended specs </h2></summary>
 
 ```kotlin
 val agTechStack = mapOf(
