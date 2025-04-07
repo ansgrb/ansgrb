@@ -1,4 +1,4 @@
-## ⚡ ag's_digital_corner.kt  
+# ⚡ ag's_digital_corner.kt  
 
 ```kotlin
 object ag : Developer() {
@@ -54,7 +54,7 @@ dependencies {
     // ^^ Spent more cycles here than I'd admit
 }
 ```
-<details> <summary><h2>🪤 click for ag's extended specs </h2></summary>
+<details> <summary><h1>🪤 click for ag's extended specs </h1></summary>
 
 ```kotlin
 val agTechStack = mapOf(
