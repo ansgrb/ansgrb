@@ -12,5 +12,5 @@
 - Currently: Building stuff that **shouldn’t** crash (emphasis on *shouldn’t*)  
 - Obsessed with: Clean code, weird algorithms, and **Go** (the language, not the game)  
 - Collab? Hit me up if your project needs **spicy** logic or Kotlin magic  
-- 📫 **`ansgrb@gmail.com` - `anasghareib@gmail.com`** or [X DOT COM](x.com/ansgrb)
+- 📫 **`ansgrb@gmail.com` - `anasghareib@gmail.com`** or [X DOT COM](https://x.com/ansgrb)
 - **Fun fact**: I’ve spent more time fighting Gradle than I’d like to admit.  
