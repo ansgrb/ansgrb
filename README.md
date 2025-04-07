@@ -6,10 +6,11 @@
   </picture>
 </a>
 
-## hey hey
+# ⚡ ag's digital corner  
 
-- 👋 I'm Anas Ghareib, but you can call me A.G.
-- 👀 building apps, messing with blockchain, and learning go – the usual
-- 🔥 let’s collaborate if you’ve got something cool or need a little chaos in your project
-- 📫 hmu at: ansgrb@gmail.com / anasghareib@gmail.com
-- ⚡ fun fact: i live at the intersection of art and tech. oh, and pointers? don’t trust 'em.
+#### **_Kotlin Multiplatform Dev | Blockchain Tinkerer | Professional Chaos Engineer_**  
+- Currently: Building stuff that **shouldn’t** crash (emphasis on *shouldn’t*)  
+- Obsessed with: Clean code, weird algorithms, and **Go** (the language, not the game)  
+- Collab? Hit me up if your project needs **spicy** logic or Kotlin magic  
+- 📫 **`ansgrb@gmail.com` - `anasghareib@gmail.com`** or [X DOT COM](x.com/ansgrb)
+- **Fun fact**: I’ve spent more time fighting Gradle than I’d like to admit.  
