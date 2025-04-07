@@ -1,16 +1,72 @@
-<a href="https://chromedino.com">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/img/lightDino.gif" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/img/darkDino.gif" />
-    <img alt="its a chrome dino running on a.g.'s github profile" src="./assets/img/lightDino.gif" />
-  </picture>
-</a>
+## ⚡ ag's_digital_corner.kt  
 
-# ⚡ ag's digital corner  
+```kotlin
+object ag : Developer() {
+    // Properties
+    val specialties = listOf(
+        "Kotlin Multiplatform", 
+        "Blockchain Tinkring", 
+        "Coroutines Wizardry",
+        "Chaos Engineering"
+    )
+    
+    var currentStatus = "Building things that *shouldn’t* crash" 
+        private set  // (emphasis on shouldn’t)
+    
+    // Methods
+    fun collab() = println("""
+        📫 Contact: 
+        - ansgrb@gmail.com 
+        - anasghareib@gmail.com
+        - Twitter: @yourhandle
+    """.trimIndent())
+    
+    override fun toString(): String {
+        return """
+           ╔══════════════════════════════╗
+           ║  WARNING:                    ║
+           ║  - Gradle fighter            ║
+           ║  - Go enthusiast             ║
+           ║  - Professional debugger     ║
+           ╚══════════════════════════════╝
+        """.trimIndent()
+    }
+}
+```
+### current mission
+```bash
+$ ./ag --status 
+> Compiling KMP apps | Battling blockchain demons
+```
+### collaboration protocol
+```kotlin
+if (you.hasCoolProject()) {
+    ag.collab()  // Let's build!
+} else {
+    println("⚠️  Warning: May send random tech memes") 
+}
+```
+### fun fact
+```gradle
+// build.gradle.kts
+dependencies {
+    implementation("life:gradle-fights:7.0.0") 
+    // ^^ Spent more cycles here than I'd admit
+}
+```
+<details> <summary><h3>click for ag's extended specs </h3></summary>
 
-#### **_Kotlin Multiplatform Dev | Blockchain Tinkerer | Professional Chaos Engineer_**  
-- Currently: Building stuff that **shouldn’t** crash (emphasis on *shouldn’t*)  
-- Obsessed with: Clean code, weird algorithms, and **Go** (the language, not the game)  
-- Collab? Hit me up if your project needs **spicy** logic or Kotlin magic  
-- 📫 **`ansgrb@gmail.com` - `anasghareib@gmail.com`** or [X DOT COM](https://x.com/ansgrb)
-- **Fun fact**: I’ve spent more time fighting Gradle than I’d like to admit.  
+```kotlin
+val agTechStack = mapOf(
+    "Languages" to listOf("Kotlin", "Go", "Solidity"),
+    "Frameworks" to listOf("KMP", "Android", "Compose"),
+    "Superpower" to "Turning caffeine into clean code"
+)
+
+val hobbies = """
+    - Reverse-engineering life's bugs
+    - Writing algorithms that scare O(n²)
+    - Automating everything (including this README)
+""".trimIndent()
+```
+</details>
