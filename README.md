@@ -18,7 +18,7 @@ object ag : Developer() {
         📫 Contact: 
         - ansgrb@gmail.com 
         - anasghareib@gmail.com
-        - Twitter: @yourhandle
+        - X: @ansgrb
     """.trimIndent())
     
     override fun toString(): String {
